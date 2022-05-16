@@ -69,11 +69,7 @@ This application won’t be deployed so I have created a walkthrough video that 
 
 ## Contributing
 
-<div id="badges">
-  <a href="https://github.com/riz1ash786">
-    <img src="https://img.shields.io/badge/profile-RIZWAN ASHRAF-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Rizwan Github"/>
-  </a>
-</div>
+If you are interested in contributing to this project then please feel free to get in touch with me via the contact information listed at the bottom of this README. Thank you.
 
 ---
 
@@ -92,15 +88,15 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 
 ## Screenshots
 
-![Homepage](./client/src/images/application-home.png)
+![Screenshot1](./client/src/images/application-home.png)
 
-![Downloaded App](./client/src/images/downloaded-web-app.png)
+![Screenshot2](./client/src/images/downloaded-web-app.png)
 
-![Manifest.json](./client/src/images/manifest.json-file.png)
+![Screenshot3](./client/src/images/manifest.json-file.png)
 
-![Service Worker](./client/src/images/service-worker.png)
+![Screenshot4](./client/src/images/service-worker.png)
 
-![IndexedDB Storage](./client/src/images/indexeddb-storage.png)
+![Screenshot5](./client/src/images/indexeddb-storage.png)
 
 ---
 
@@ -129,7 +125,11 @@ This application utilises the [ISC License](https://opensource.org/licenses/ISC 
 If you have any additional questions, then please feel free to get in touch via my github or email details linked below. Thank you.
 
 <div id="badges">
+  <a href="https://github.com/riz1ash786">
+    <img src="https://img.shields.io/badge/profile-RIZWAN ASHRAF-blue?style=for-the-badge&logo=GITHUB&logoColor=white" alt="Rizwan Github"/>
+  </a> <br />
+<div id="badges">
   <a href="mailto:riz1ash786@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-RIZWAN ASHRAF-blue?style=for-the-badge&logo=&logoColor=white" alt="Rizwan Github"/>
+    <img src="https://img.shields.io/badge/EMAIL-RIZWAN ASHRAF-blue?style=for-the-badge&logo=GOOGLE&logoColor=white" alt="Rizwan Github"/>
   </a>
 </div>
