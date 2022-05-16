@@ -55,6 +55,7 @@ This application won’t be deployed so I have created a walkthrough video that 
 <img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" title="Insomnia" alt="Insomnia" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodemon-logo-png-transparent.png" title="Nodemon" alt="Nodemon" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" title="Chrome" alt="Chrome" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
